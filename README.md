@@ -1,5 +1,11 @@
 ### Setup
 
+Prereqs
+
+ - python
+ - [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html)
+ - sqlite (try typing `sqlite3` in shell and see if it loads). It comes pre-loaded on the mac; [here's an installation guide](http://www.tutorialspoint.com/sqlite/sqlite_installation.htm)
+
 In the shell
 
 1. `mkvirtualenv workshop-sql`
